@@ -1,0 +1,12 @@
+{
+  "name": "mern--end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Anil Kumar Gupta",
+  "license": "ISC"
+}
